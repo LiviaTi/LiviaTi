@@ -30,7 +30,7 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-### Latest projects:
+<!--### Latest projects:-->
 <!-- - [Teste](https://teste.com)<br/> -->
 
 <!-- Exemplos repositórios https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md -->
